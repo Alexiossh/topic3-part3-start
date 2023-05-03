@@ -30,7 +30,7 @@ fun SearchedCommunities(
     viewModel: MainViewModel?,
     modifier: Modifier = Modifier
 ) {
-    //TODO Add your code here
+    
 }
 
 @Composable
